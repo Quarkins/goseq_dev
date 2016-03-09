@@ -1,0 +1,20 @@
+hg38
+mm10
+galGal4
+bosTau8
+bosTau7
+bosTau6
+ce10
+canFam3
+dm6 
+danRer10
+danRer7
+rheMac3 
+panTro4
+panTro3
+rn6 rn5 
+sacCer3
+susScr3
+susScr2 
+xenTro7
+xenTro3
